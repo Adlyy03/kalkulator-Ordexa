@@ -1,0 +1,674 @@
+{
+  "PRD.md": {
+    "mtime": 1793525588.8657615,
+    "seen": 1793526006.578777,
+    "ast_hash": "54a410f45f6f9b43e6d4fcce2c48d0ee",
+    "semantic_hash": "54a410f45f6f9b43e6d4fcce2c48d0ee"
+  },
+  "design.md": {
+    "mtime": 1793525543.2179952,
+    "seen": 1793526006.578792,
+    "ast_hash": "0ec84f04dadc47e55276c07594cd84f2",
+    "semantic_hash": "0ec84f04dadc47e55276c07594cd84f2"
+  },
+  "__tests__/engine/break-even.test.ts": {
+    "mtime": 1793528620.654484,
+    "seen": 1793538668.49401,
+    "ast_hash": "f1e4b733ee9bff1820ce1c404fc16472",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/expenses.test.ts": {
+    "mtime": 1793528620.6124694,
+    "seen": 1793538668.494015,
+    "ast_hash": "306f1e07f59cbcb3c1d1d6ab32d644d6",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/math.test.ts": {
+    "mtime": 1793528620.6294754,
+    "seen": 1793538668.4940174,
+    "ast_hash": "46dde64e8685ea451c96517451be7e96",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/payment-gateway.test.ts": {
+    "mtime": 1793528620.628475,
+    "seen": 1793538668.4940188,
+    "ast_hash": "39edf6718a65bc6206a0f36c59be866f",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/profit-loss.test.ts": {
+    "mtime": 1793528620.6124694,
+    "seen": 1793538668.494021,
+    "ast_hash": "5cd714dc4c6fad4a2a6d3c4d3ed9e1ac",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/revenue.test.ts": {
+    "mtime": 1793528620.6274745,
+    "seen": 1793538668.4940221,
+    "ast_hash": "b7e40f730a45095dd2339a5c74108872",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/subscription.test.ts": {
+    "mtime": 1793528620.6524832,
+    "seen": 1793538668.4940236,
+    "ast_hash": "832eb7ae50d957f1acee4c04d57d4552",
+    "semantic_hash": ""
+  },
+  "__tests__/phase0.test.ts": {
+    "mtime": 1793527934.6012518,
+    "seen": 1793538668.4940248,
+    "ast_hash": "eca521c26185d64e6eb591142d05aa1a",
+    "semantic_hash": ""
+  },
+  "android/app/build.gradle": {
+    "mtime": 1793532039.4503062,
+    "seen": 1793538668.4940262,
+    "ast_hash": "f8bc0de196b61662fa386c7f3100d232",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/ordexa/calculator/MainActivity.kt": {
+    "mtime": 1793532030.5928175,
+    "seen": 1793538668.4940279,
+    "ast_hash": "03b594aa8a1318a7ca7ab559d10ae757",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/java/com/ordexa/calculator/MainApplication.kt": {
+    "mtime": 1793532030.5928175,
+    "seen": 1793538668.4940288,
+    "ast_hash": "06cdeb77f0304d83b75ac7ee4104af35",
+    "semantic_hash": ""
+  },
+  "android/build.gradle": {
+    "mtime": 1793541624.5748851,
+    "seen": 1793544259.7008643,
+    "ast_hash": "891773ba67cdf7a49a239831d96bfbfb",
+    "semantic_hash": ""
+  },
+  "android/gradlew": {
+    "mtime": 1793532027.6569638,
+    "seen": 1793538668.4940314,
+    "ast_hash": "1db6d150e9a9442ca929c1fa8b2fd25e",
+    "semantic_hash": ""
+  },
+  "android/react-settings-plugin/build.gradle.kts": {
+    "mtime": 1793532027.6583645,
+    "seen": 1793538668.4940326,
+    "ast_hash": "2b632c4ec639e238835602be329daae9",
+    "semantic_hash": ""
+  },
+  "android/react-settings-plugin/src/main/kotlin/expo/plugins/ReactSettingsPlugin.kt": {
+    "mtime": 1793532027.6592593,
+    "seen": 1793538668.4940338,
+    "ast_hash": "8985acacd8da0db15aa7806db468749e",
+    "semantic_hash": ""
+  },
+  "android/settings.gradle": {
+    "mtime": 1793532039.4483063,
+    "seen": 1793538668.4940352,
+    "ast_hash": "7146dfd88a910d75740787fe9574fd69",
+    "semantic_hash": ""
+  },
+  "app.json": {
+    "mtime": 1793539074.5046985,
+    "seen": 1793539321.097779,
+    "ast_hash": "eea136a9133a4b8c6f57e5b6cf693fd5",
+    "semantic_hash": ""
+  },
+  "app/_layout.tsx": {
+    "mtime": 1793543958.2280364,
+    "seen": 1793544259.700911,
+    "ast_hash": "83dca3b6b9900be20d6e53a6f5468e53",
+    "semantic_hash": ""
+  },
+  "app/break-even.tsx": {
+    "mtime": 1793544733.822885,
+    "seen": 1793544806.5943725,
+    "ast_hash": "e54309c1a3e4b269a7e2ab044a83c67a",
+    "semantic_hash": ""
+  },
+  "app/index.tsx": {
+    "mtime": 1793539877.6177492,
+    "seen": 1793540063.8195734,
+    "ast_hash": "16fe1039dcddf177ee071f31434cbe3f",
+    "semantic_hash": ""
+  },
+  "app/profit-loss.tsx": {
+    "mtime": 1793544715.387868,
+    "seen": 1793544806.5943809,
+    "ast_hash": "a845e03a842d3bc6956fdf98b1c8bd2b",
+    "semantic_hash": ""
+  },
+  "app/revenue.tsx": {
+    "mtime": 1793543965.9596522,
+    "seen": 1793544259.7009351,
+    "ast_hash": "d9d8296bba975b56a2a81b977599172d",
+    "semantic_hash": ""
+  },
+  "babel.config.js": {
+    "mtime": 1793527158.9692674,
+    "seen": 1793538668.4940448,
+    "ast_hash": "fbb2db65a3b4fe275b233d9e4e31ea21",
+    "semantic_hash": ""
+  },
+  "components/ui/Button.tsx": {
+    "mtime": 1793544019.1482081,
+    "seen": 1793544259.7009478,
+    "ast_hash": "af9def9499a7fbfb385e616d6fe66620",
+    "semantic_hash": ""
+  },
+  "components/ui/Card.tsx": {
+    "mtime": 1793544004.580844,
+    "seen": 1793544259.7009506,
+    "ast_hash": "3d4208346484a8e72279cf2746278753",
+    "semantic_hash": ""
+  },
+  "components/ui/GlassBar.tsx": {
+    "mtime": 1793528954.9486778,
+    "seen": 1793538668.4940484,
+    "ast_hash": "1fb788c6e083464c69ad837683cc388f",
+    "semantic_hash": ""
+  },
+  "components/ui/ModalSheet.tsx": {
+    "mtime": 1793528954.9486778,
+    "seen": 1793538668.4940493,
+    "ast_hash": "1e7b0e88422654b60227cc5e94b58043",
+    "semantic_hash": ""
+  },
+  "components/ui/NumericInput.tsx": {
+    "mtime": 1793528954.9116724,
+    "seen": 1793538668.4940505,
+    "ast_hash": "e7a773db33ab275f5c64fa32d700b93f",
+    "semantic_hash": ""
+  },
+  "components/ui/ResultCard.tsx": {
+    "mtime": 1793544040.8596745,
+    "seen": 1793544259.7009635,
+    "ast_hash": "45336fbfb04a8036a5a5470c957dd388",
+    "semantic_hash": ""
+  },
+  "db/client.ts": {
+    "mtime": 1793543576.8626568,
+    "seen": 1793544259.7009664,
+    "ast_hash": "cb7784890c73e5e76bbd2e0c014670a0",
+    "semantic_hash": ""
+  },
+  "db/index.ts": {
+    "mtime": 1793543592.5320847,
+    "seen": 1793544259.7009692,
+    "ast_hash": "92226fd9e1cd48a769256a2c1f2618ed",
+    "semantic_hash": ""
+  },
+  "db/repositories/expenses.ts": {
+    "mtime": 1793539229.4246318,
+    "seen": 1793539321.0978208,
+    "ast_hash": "1c8013ec603a8aeb2766c7b208847283",
+    "semantic_hash": ""
+  },
+  "db/repositories/packages.ts": {
+    "mtime": 1793539239.1536746,
+    "seen": 1793539321.0978227,
+    "ast_hash": "e7fa27364c8f7ba6c924d0c3dd35f1a3",
+    "semantic_hash": ""
+  },
+  "db/repositories/restaurants.ts": {
+    "mtime": 1793539247.5155554,
+    "seen": 1793539321.0978243,
+    "ast_hash": "0e88b055c354fe586d77c82c540b3bc0",
+    "semantic_hash": ""
+  },
+  "db/seed.ts": {
+    "mtime": 1793528815.029806,
+    "seen": 1793538668.494059,
+    "ast_hash": "ca24ba2a224225764e03be94af910bae",
+    "semantic_hash": ""
+  },
+  "engine/break-even.ts": {
+    "mtime": 1793528470.8928354,
+    "seen": 1793538668.4940603,
+    "ast_hash": "3d2b48ff3482316bcdb94392163006f4",
+    "semantic_hash": ""
+  },
+  "engine/expenses.ts": {
+    "mtime": 1793528470.8257976,
+    "seen": 1793538668.4940612,
+    "ast_hash": "2197fb9f0fdb4289cf1646b7008497f8",
+    "semantic_hash": ""
+  },
+  "engine/math.ts": {
+    "mtime": 1793528692.792917,
+    "seen": 1793538668.494063,
+    "ast_hash": "ecf60b5df2bc18f24ef2f9c1afc59a89",
+    "semantic_hash": ""
+  },
+  "engine/payment-gateway.ts": {
+    "mtime": 1793528470.8257976,
+    "seen": 1793538668.494064,
+    "ast_hash": "8ebb54a77edc305937fee95be33624ab",
+    "semantic_hash": ""
+  },
+  "engine/profit-loss.ts": {
+    "mtime": 1793528470.8928354,
+    "seen": 1793538668.4940655,
+    "ast_hash": "b901d6706352a7069a196c7b4d080ac2",
+    "semantic_hash": ""
+  },
+  "engine/revenue.ts": {
+    "mtime": 1793528470.8928354,
+    "seen": 1793538668.4940665,
+    "ast_hash": "891151c2ab11f2a856fd3ce19c6fe576",
+    "semantic_hash": ""
+  },
+  "engine/subscription.ts": {
+    "mtime": 1793528470.824797,
+    "seen": 1793538668.4940684,
+    "ast_hash": "66b1b99fc17b05a6c265562b9d1c5c73",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/AppDelegate.h": {
+    "mtime": 1793532027.6605022,
+    "seen": 1793538668.4940698,
+    "ast_hash": "937ea6b7f88b66173c0a8d1bf455d96d",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/AppDelegate.mm": {
+    "mtime": 1793532030.4728246,
+    "seen": 1793538668.4940708,
+    "ast_hash": "df4edcd344414a2819551d1decff63c8",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/AppIcon.appiconset/Contents.json": {
+    "mtime": 1793532029.2908938,
+    "seen": 1793538668.494072,
+    "ast_hash": "e753dae9a3ae1e8aeb8f44742ea0614b",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/Contents.json": {
+    "mtime": 1793532027.6612651,
+    "seen": 1793538668.4940732,
+    "ast_hash": "96cbaeb138eab0aceebfdf0022c7d835",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/SplashScreen.imageset/Contents.json": {
+    "mtime": 1793532029.3148925,
+    "seen": 1793538668.4940743,
+    "ast_hash": "1eee2a466d9190086560e3416e26f654",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/SplashScreenBackground.imageset/Contents.json": {
+    "mtime": 1793532029.3118927,
+    "seen": 1793538668.4940753,
+    "ast_hash": "1eee2a466d9190086560e3416e26f654",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/ORDEXACalculator-Bridging-Header.h": {
+    "mtime": 1793532030.37883,
+    "seen": 1793538668.4940765,
+    "ast_hash": "ed5eec87dc8088af46e122a39ee6817b",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/main.m": {
+    "mtime": 1793532027.6634562,
+    "seen": 1793538668.4940777,
+    "ast_hash": "91efb913844bf052f41ff1466580f60b",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/noop-file.swift": {
+    "mtime": 1793532030.3738303,
+    "seen": 1793538668.494079,
+    "ast_hash": "3c417974c044a61f90e7902f480c291f",
+    "semantic_hash": ""
+  },
+  "ios/Podfile.properties.json": {
+    "mtime": 1793532030.5581865,
+    "seen": 1793538668.4940805,
+    "ast_hash": "4a357809d422c79bc009c666175e72ad",
+    "semantic_hash": ""
+  },
+  "jest.config.js": {
+    "mtime": 1793527158.9380417,
+    "seen": 1793538668.4940815,
+    "ast_hash": "e29a4c623d07889eef080bf6ae7b6ed3",
+    "semantic_hash": ""
+  },
+  "metro.config.js": {
+    "mtime": 1793527158.935269,
+    "seen": 1793538668.4940832,
+    "ast_hash": "dcb5d6305afce631e9df229a6693f679",
+    "semantic_hash": ""
+  },
+  "nativewind-env.d.ts": {
+    "mtime": 1793531425.8211653,
+    "seen": 1793538668.4940844,
+    "ast_hash": "e3064341eeb31cf4df5b5219396ac00d",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1793539766.5601895,
+    "seen": 1793540063.8198106,
+    "ast_hash": "7367cb292e53794bee38cb1b2563d67d",
+    "semantic_hash": ""
+  },
+  "scripts/verify-db.js": {
+    "mtime": 1793528859.8502991,
+    "seen": 1793538668.4940867,
+    "ast_hash": "b379e84acf2115141919c6030606877a",
+    "semantic_hash": ""
+  },
+  "tailwind.config.js": {
+    "mtime": 1793527158.9692674,
+    "seen": 1793538668.4940877,
+    "ast_hash": "6e1d24bb1dc7cfbafd8484bb4f6dc675",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1793531425.8221655,
+    "seen": 1793538668.494089,
+    "ast_hash": "3f8ad2303aa79fefe25fce0648a11f29",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1793526186.227011,
+    "seen": 1793538668.4940903,
+    "ast_hash": "48ad9b88d886d56b587cd43b49ac1f60",
+    "semantic_hash": ""
+  },
+  "PHASES.md": {
+    "mtime": 1793544247.581013,
+    "seen": 1793544259.701086,
+    "ast_hash": "59ac8ea8afa8cd3d1bb40b292f7c551c",
+    "semantic_hash": ""
+  },
+  "agents.md": {
+    "mtime": 1793526186.227011,
+    "seen": 1793538668.4940984,
+    "ast_hash": "48ad9b88d886d56b587cd43b49ac1f60",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/drawable-hdpi/splashscreen_image.png": {
+    "mtime": 1793532039.3673108,
+    "seen": 1793538668.4941022,
+    "ast_hash": "de52ca0fdf389c38d90b1d95bab681fc",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/drawable-mdpi/splashscreen_image.png": {
+    "mtime": 1793532039.3663108,
+    "seen": 1793538668.4941037,
+    "ast_hash": "de52ca0fdf389c38d90b1d95bab681fc",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/drawable-xhdpi/splashscreen_image.png": {
+    "mtime": 1793532039.3673108,
+    "seen": 1793538668.4941046,
+    "ast_hash": "de52ca0fdf389c38d90b1d95bab681fc",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png": {
+    "mtime": 1793532039.3673108,
+    "seen": 1793538668.4941058,
+    "ast_hash": "de52ca0fdf389c38d90b1d95bab681fc",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png": {
+    "mtime": 1793532039.3693106,
+    "seen": 1793538668.4941072,
+    "ast_hash": "de52ca0fdf389c38d90b1d95bab681fc",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-hdpi/ic_launcher.png": {
+    "mtime": 1793532031.9217398,
+    "seen": 1793538668.4941084,
+    "ast_hash": "207d041ee0b0c3b7234da367452dae68",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png": {
+    "mtime": 1793532034.1496105,
+    "seen": 1793538668.4941099,
+    "ast_hash": "12e483fc5ccf8526b1d701f31a8e9bf6",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png": {
+    "mtime": 1793532033.1766667,
+    "seen": 1793538668.494111,
+    "ast_hash": "fa5b8aca1dbb74bedae1260dd95080b1",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-mdpi/ic_launcher.png": {
+    "mtime": 1793532031.9217398,
+    "seen": 1793538668.4941123,
+    "ast_hash": "d1bf70bc45abc8595c808610d9340bd6",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png": {
+    "mtime": 1793532034.1436107,
+    "seen": 1793538668.4941132,
+    "ast_hash": "c80685ac040b20ff7399b1cd20058ce7",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png": {
+    "mtime": 1793532033.1766667,
+    "seen": 1793538668.4941146,
+    "ast_hash": "9c9cca1bcb8ed11c5506ed37f727feb9",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xhdpi/ic_launcher.png": {
+    "mtime": 1793532031.9217398,
+    "seen": 1793538668.4941156,
+    "ast_hash": "36f067373bf5332ce950e7f91e21efb3",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png": {
+    "mtime": 1793532034.1466105,
+    "seen": 1793538668.4941168,
+    "ast_hash": "5a50596e3e373865fc2352e508df3a09",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png": {
+    "mtime": 1793532033.177667,
+    "seen": 1793538668.4941182,
+    "ast_hash": "15cc72b9b4be784d74a3d7fd0898d40e",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png": {
+    "mtime": 1793532031.9217398,
+    "seen": 1793538668.4941194,
+    "ast_hash": "eaec45ca949c3c69346088f45afd8944",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png": {
+    "mtime": 1793532034.1496105,
+    "seen": 1793538668.4941206,
+    "ast_hash": "0235fc463e19924ed20896c14d3b0742",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png": {
+    "mtime": 1793532033.1786668,
+    "seen": 1793538668.494122,
+    "ast_hash": "7a3a8c7aa531a328c7bd23ff76dd08e8",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": {
+    "mtime": 1793532031.9217398,
+    "seen": 1793538668.4941232,
+    "ast_hash": "83f56f8cd48b7d113c7d3bd7dffa2a67",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png": {
+    "mtime": 1793532034.1466105,
+    "seen": 1793538668.4941247,
+    "ast_hash": "95ecbf6d49ca9329ff178a1a2b659c7c",
+    "semantic_hash": ""
+  },
+  "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png": {
+    "mtime": 1793532033.1766667,
+    "seen": 1793538668.4941258,
+    "ast_hash": "d38ed23dc16314562206acaa9fc76544",
+    "semantic_hash": ""
+  },
+  "assets/adaptive-icon.png": {
+    "mtime": 1793531886.940324,
+    "seen": 1793538668.494127,
+    "ast_hash": "933dd1b68c8265b63a50cdd49a3ab71e",
+    "semantic_hash": ""
+  },
+  "assets/favicon.png": {
+    "mtime": 1793531887.0768948,
+    "seen": 1793538668.4941285,
+    "ast_hash": "bffc3b3c6f60384ab7100b1f451eb362",
+    "semantic_hash": ""
+  },
+  "assets/icon.png": {
+    "mtime": 1793531886.895328,
+    "seen": 1793538668.4941306,
+    "ast_hash": "9a14f46f216ade3ff8f6b683c21047cc",
+    "semantic_hash": ""
+  },
+  "assets/splash.png": {
+    "mtime": 1793531887.074312,
+    "seen": 1793538668.494132,
+    "ast_hash": "571fa60b90120e1921833b2f35dffc82",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/AppIcon.appiconset/App-Icon-1024x1024@1x.png": {
+    "mtime": 1793532029.290373,
+    "seen": 1793538668.4941335,
+    "ast_hash": "56a962e63dca1771e338f10e907a2031",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/SplashScreen.imageset/image.png": {
+    "mtime": 1793532030.2808359,
+    "seen": 1793538668.494135,
+    "ast_hash": "de52ca0fdf389c38d90b1d95bab681fc",
+    "semantic_hash": ""
+  },
+  "ios/ORDEXACalculator/Images.xcassets/SplashScreenBackground.imageset/image.png": {
+    "mtime": 1793532029.309893,
+    "seen": 1793538668.4941359,
+    "ast_hash": "df7b1ec0f1e2c557c39f3263e7f2b2ba",
+    "semantic_hash": ""
+  },
+  "app/(tabs)/_layout.tsx": {
+    "mtime": 1793538917.835668,
+    "seen": 1793539321.0977833,
+    "ast_hash": "52c8adb6e0093df5b3ad575f54eeec68",
+    "semantic_hash": ""
+  },
+  "app/(tabs)/index.tsx": {
+    "mtime": 1793544692.5278606,
+    "seen": 1793544806.5943582,
+    "ast_hash": "827c6593c7f16e14b059c99b9255adab",
+    "semantic_hash": ""
+  },
+  "app/(tabs)/kalkulator.tsx": {
+    "mtime": 1793544659.3388786,
+    "seen": 1793544806.594361,
+    "ast_hash": "cc16efd9d3a92693e0e5d38b71748b03",
+    "semantic_hash": ""
+  },
+  "app/(tabs)/laporan.tsx": {
+    "mtime": 1793544098.9661372,
+    "seen": 1793544259.7008939,
+    "ast_hash": "5298456e0175a24e6c30623388defb29",
+    "semantic_hash": ""
+  },
+  "app/(tabs)/pengaturan.tsx": {
+    "mtime": 1793543947.2885933,
+    "seen": 1793544259.7008967,
+    "ast_hash": "a66a80bd000efdf324c69e018c3e9b5f",
+    "semantic_hash": ""
+  },
+  "app/(tabs)/simulasi.tsx": {
+    "mtime": 1793544158.4582596,
+    "seen": 1793544259.7009075,
+    "ast_hash": "7dd122a504a69935ffbf6e3d55817434",
+    "semantic_hash": ""
+  },
+  "components/navigation/FloatingTabBar.tsx": {
+    "mtime": 1793539129.6696215,
+    "seen": 1793539321.0978074,
+    "ast_hash": "2713f5343d05e7320a43d7fcc165ae81",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/growth-simulator.test.ts": {
+    "mtime": 1793543496.7555008,
+    "seen": 1793544259.700822,
+    "ast_hash": "54373357b7d61fac750483d2cded513b",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/roi-calculator.test.ts": {
+    "mtime": 1793543511.294888,
+    "seen": 1793544259.7008405,
+    "ast_hash": "518c3bbe3cac7b5f3b0ab902700f95bd",
+    "semantic_hash": ""
+  },
+  "__tests__/engine/scenario-simulator.test.ts": {
+    "mtime": 1793543502.9176648,
+    "seen": 1793544259.7008433,
+    "ast_hash": "62245d3174cf02e130aaba249a145ea2",
+    "semantic_hash": ""
+  },
+  "app/biaya-operasional.tsx": {
+    "mtime": 1793544771.8919504,
+    "seen": 1793544806.5943708,
+    "ast_hash": "d4bb8287dca1f69a465301e3bd35b569",
+    "semantic_hash": ""
+  },
+  "app/modal-awal.tsx": {
+    "mtime": 1793544637.6129098,
+    "seen": 1793544806.594376,
+    "ast_hash": "858f4b52bf9397ef3671e250edad401b",
+    "semantic_hash": ""
+  },
+  "app/paket-langganan.tsx": {
+    "mtime": 1793544741.2668946,
+    "seen": 1793544806.5943778,
+    "ast_hash": "6166e5ae0d6919f384641b59500ed362",
+    "semantic_hash": ""
+  },
+  "app/payment-gateway.tsx": {
+    "mtime": 1793544128.0431788,
+    "seen": 1793544259.7009292,
+    "ast_hash": "312116739aa7174e847234423d67099f",
+    "semantic_hash": ""
+  },
+  "app/subscription.tsx": {
+    "mtime": 1793544209.359899,
+    "seen": 1793544259.7009377,
+    "ast_hash": "9921718c4125645238da74ef597e78d5",
+    "semantic_hash": ""
+  },
+  "db/repositories/capital.ts": {
+    "mtime": 1793543584.8328743,
+    "seen": 1793544259.7009718,
+    "ast_hash": "8f243c7ba0599f68b623cc58944004f5",
+    "semantic_hash": ""
+  },
+  "engine/growth-simulator.ts": {
+    "mtime": 1793543540.9506836,
+    "seen": 1793544259.7009947,
+    "ast_hash": "3b1ca1a8835c8652f9a39dc27dfb8f1f",
+    "semantic_hash": ""
+  },
+  "engine/roi-calculator.ts": {
+    "mtime": 1793543551.2509618,
+    "seen": 1793544259.701012,
+    "ast_hash": "cd56f060e7541a222548ddbd0bff2c64",
+    "semantic_hash": ""
+  },
+  "engine/scenario-simulator.ts": {
+    "mtime": 1793543479.4610426,
+    "seen": 1793544259.7010145,
+    "ast_hash": "6b685611d3f2e169bb71515053a4532e",
+    "semantic_hash": ""
+  },
+  "store/useFinancialStore.ts": {
+    "mtime": 1793544087.5355365,
+    "seen": 1793544259.7010727,
+    "ast_hash": "9dccc86d683452990c15c0dab299dbd3",
+    "semantic_hash": ""
+  },
+  "package-lock.json": {
+    "mtime": 1793539767.1141896,
+    "seen": 1793544806.5945284,
+    "ast_hash": "1daa54019d941c2136ebf1367409415d",
+    "semantic_hash": ""
+  }
+}
